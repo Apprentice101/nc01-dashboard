@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-09",
   "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-09T23:28:07.836Z",
+  "exportedAt": "2026-07-10T21:02:58.920Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -439,7 +439,7 @@
           "src-carolina-journal-nc01",
           "src-pbs-nc-redistricting"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },
