@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:45:04.351Z",
-  "exportedAt": "2026-07-10T21:47:26.104Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:25:17.309Z",
+  "exportedAt": "2026-07-15T06:40:22.674Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -771,20 +771,60 @@
         "relevanceSummary": "Reports the federal three-judge panel's denial of a preliminary injunction against North Carolina's new congressional map, which redrew NC-01 and NC-03.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0qiwyuh",
+        "headline": "NC House passes sweeping elections bill with auditor powers, ballot challenges",
+        "sourceName": "The Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/politics-government/article316327060.html",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "This article details House Bill 958, which would require the state auditor to randomly audit counties, create new avenues to challenge ballots, extend deadlines for counting absentee and provisional ballots, tighten candidate party registration requirements, and clarify rules that can lead to absentee ballots being discarded if a voter dies before Election Day, directly shaping voting procedures and candidate qualification statewide, including in NC-01.[5]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0pyopg0",
+        "headline": "‘Chasing ghosts’: NC House approves elections bill expanding state oversight",
+        "sourceName": "Port City Daily",
+        "url": "https://portcitydaily.com/latest-news/2026/07/01/chasing-ghosts-nc-house-approves-elections-bill-expanding-state-oversight/",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "The NC House passed House Bill 958, expanding state oversight of county boards, mandating statewide and county-level audits of all absentee and provisional ballots, extending voters’ time to cure mail-in and provisional ballots to five business days, and allowing early voting ballots to be counted before polls close, all of which will change election administration and ballot handling in NC-01’s counties if enacted.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0putgce",
+        "headline": "Sweeping election bill advances in North Carolina",
+        "sourceName": "YouTube (news clip)",
+        "url": "https://www.youtube.com/watch?v=S-n4-3EOpx0",
+        "publishedAt": "2026-06-30",
+        "relevanceSummary": "This broadcast segment covers the advancement of a sweeping North Carolina elections bill that restructures statewide procedures and oversight for voting, ballot counting, and election boards, signaling imminent changes that NC-01 voters and local election officials will need to understand before upcoming elections.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-01ydshq",
+        "headline": "House set to take up statewide election law changes",
+        "sourceName": "NC Political News",
+        "url": "https://www.ncpoliticalnews.com/news/house-set-to-take-up-statewide-election-law-changes",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "House Bill 958 is a broad statewide 'Election Law Changes' bill that would alter ballot counting procedures, provisional ballot rules, voter registration corrections, absentee ballot curing deadlines, and public observation of vote counting, directly affecting how NC-01 voters’ ballots are processed and corrected if problems arise.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-nc01-auto",
-      "startedAt": "2026-07-10T21:44:15.686Z",
-      "completedAt": "2026-07-10T21:45:04.351Z",
+      "id": "run-2026-07-15-nc01-auto",
+      "startedAt": "2026-07-15T06:24:43.642Z",
+      "completedAt": "2026-07-15T06:25:17.309Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
-      "updatesCreated": 0,
+      "sourcesChecked": 7,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for NC-01. Sources checked: 11. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for NC-01. Sources checked: 7. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:45:04.351Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:25:17.309Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
