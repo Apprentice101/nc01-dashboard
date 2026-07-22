@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:25:17.309Z",
-  "exportedAt": "2026-07-15T06:40:22.674Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:36:31.294Z",
+  "exportedAt": "2026-07-22T06:51:57.114Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -811,20 +811,80 @@
         "relevanceSummary": "House Bill 958 is a broad statewide 'Election Law Changes' bill that would alter ballot counting procedures, provisional ballot rules, voter registration corrections, absentee ballot curing deadlines, and public observation of vote counting, directly affecting how NC-01 voters’ ballots are processed and corrected if problems arise.[2]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0edbn7d",
+        "headline": "Elecciones en Carolina del Norte: Junta Estatal aprueba cambios en boletas provisionales y restricciones al sonido",
+        "sourceName": "Enlace Latino NC",
+        "url": "https://enlacelatinonc.org/elecciones-en-carolina-del-norte-junta-estatal-aprueba-cambios-en-boletas-provisionales-y-restricciones-al-sonido/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Enlace Latino NC reports in Spanish that the State Board of Elections approved changes eliminating the requirement for unanimous county‑board agreement to reject provisional ballots for lack of photo ID and adding new restrictions on sound inside polling places; these statewide rules will shape how provisional ballots and polling‑place environments are handled for Latino and other voters in NC‑01.[5]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0tmnpil",
+        "headline": "North Carolina Elections Board Votes to Require Only a Majority, Not Unanimity, to Reject Voter Photo-ID Exception Affidavits",
+        "sourceName": "Pressure of Truth",
+        "url": "https://pressureoftruth.com/story/nc-elections-board-photo-id-rule-change.html",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This piece explains that on July 16, 2026 the NC State Board of Elections voted 3–2 to amend rules so county boards can reject voter photo‑ID exception affidavits by majority rather than unanimous vote, affecting voters statewide who lack accepted ID and rely on these affidavits, including NC‑01 residents who may face higher risk of ballot rejection.[3]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0twvwm2",
+        "headline": "GOP-led NC elections board votes to throw out ballots more easily",
+        "sourceName": "ABC11 (WTVD)",
+        "url": "https://www.youtube.com/watch?v=YHjz4IgrQ-w",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This broadcast describes how the Republican‑led NC State Board of Elections approved new rules making it easier for officials to reject ballots from voters who do not present required voter ID and to remove people from polling places, with these statewide changes governing ballot acceptance and polling‑place rules for NC‑01 voters in upcoming elections.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0i6o9ng",
+        "headline": "NC elections board approves new rule making it easier to disqualify ballots",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article316534617.html",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "The News & Observer details that the State Board of Elections adopted a voter ID rule allowing county boards to disqualify ballots by simple majority vote when they reject a voter’s explanation for not providing ID, changing how exception affidavits are evaluated for both in‑person and mail voters statewide, including those in NC‑01.[6]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-021q1di",
+        "headline": "Mail-in ballots could be more easily thrown out, under new NC election rules",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-board-election-rules-voter-id-mail-polling-place-republican-democrat-july-2026/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "WRAL reports that the NC State Board of Elections approved statewide rule changes making it easier for officials to reject mail‑in ballots and to disqualify voters’ excuses for lacking photo ID, as well as changes affecting behavior inside polling places; these rules, once finalized, will govern mail voting, voter ID exceptions, and polling‑place conduct for NC‑01 voters.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0a862z9",
+        "headline": "North Carolina election board again makes it harder to vote by mail",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/north-carolina-election-board-again-makes-it-harder-to-vote-by-mail/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "The article explains that the NC State Board of Elections approved new rules requiring voters to submit written attestations to cure several types of mail‑ballot envelope irregularities, making it more likely that mail ballots will be rejected if voters do not complete the new paperwork, and these statewide procedures apply directly to all NC‑01 voters.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-nc01-auto",
-      "startedAt": "2026-07-15T06:24:43.642Z",
-      "completedAt": "2026-07-15T06:25:17.309Z",
+      "id": "run-2026-07-22-nc01-auto",
+      "startedAt": "2026-07-22T06:35:56.729Z",
+      "completedAt": "2026-07-22T06:36:31.294Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 4,
+      "sourcesChecked": 6,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for NC-01. Sources checked: 7. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for NC-01. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:25:17.309Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:36:31.294Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
