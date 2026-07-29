@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:36:31.294Z",
-  "exportedAt": "2026-07-22T21:16:56.958Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:40:16.549Z",
+  "exportedAt": "2026-07-29T06:55:25.616Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -237,7 +237,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -871,20 +871,100 @@
         "relevanceSummary": "The article explains that the NC State Board of Elections approved new rules requiring voters to submit written attestations to cure several types of mail‑ballot envelope irregularities, making it more likely that mail ballots will be rejected if voters do not complete the new paperwork, and these statewide procedures apply directly to all NC‑01 voters.[1]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ob3p62",
+        "headline": "North Carolina Black Alliance | Keeping it 💯, July 26 marks ... (SAVE Act explainer)",
+        "sourceName": "North Carolina Black Alliance",
+        "url": "https://www.instagram.com/reel/DbQ2WEDOuu6/",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "This voter-information piece explains that the proposed SAVE Act would end the use of a driver’s license alone as proof of citizenship when registering to vote and instead require documents like a passport or birth certificate, signaling a potential statewide change to registration procedures that would affect new NC-01 registrants.[5]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0x7prr6",
+        "headline": "North Carolina advances more voter suppression measures",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/north-carolina-advances-more-voter-suppression-measures/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This statewide analysis of HB 958 and related proposals details new voter roll maintenance rules, including a process to remove non-eligible residents using federal databases and stricter proof-of-citizenship indications on registration forms, which would impact registration and list maintenance for NC-01 voters.[4][10]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0dvga2c",
+        "headline": "NC Senate advances controversial but slimmed-down elections change bill",
+        "sourceName": "News from the States",
+        "url": "https://www.newsfromthestates.com/article/nc-senate-advances-controversial-slimmed-down-elections-change-bill",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "HB 834 would extend the statewide ballot cure period from three to five business days and allow certain driver’s licenses with extended expirations to continue serving as valid voter ID, changing post-election procedures and acceptable identification for all NC voters, including those in NC-01.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ssg47s",
+        "headline": "North Carolina Senate advances controversial elections bill",
+        "sourceName": "News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/article316674452.html",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The Senate moved forward HB 958, which would change statewide election administration by requiring officials to use federal health data to remove deceased voters from registration rolls and expand voter roll maintenance activities, directly affecting how NC-01 voters remain registered and on the rolls.[10][4]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-05xbyzt",
+        "headline": "North Carolina Republicans Have a New Plan to Disenfranchise Voters. It Could Determine Control of Congress.",
+        "sourceName": "Headtopics / Aggregated reporting",
+        "url": "https://ng.headtopics.com/news/north-carolina-republicans-have-a-new-plan-to-85891298",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "Coverage of recent NCSBE rule changes explains that voters, not election workers, must now fix problems with absentee ballots and that a new voter ID mandate and tightened rules on mail ballots and reasonable-impediment affidavits could affect turnout and ballot acceptance in congressional races like NC-01.[2][8]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0f1zy7k",
+        "headline": "Local elections director comfortable board can handle new law",
+        "sourceName": "The Sampson Independent",
+        "url": "https://www.clintonnc.com/news/140969/local-elections-director-comfortable-board-can-handle-new-law/amp",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "A county elections director explains implementation of the new State Board rule allowing local boards to reject photo ID exemption forms with a simple majority instead of unanimous votes, clarifying how the change to voter ID and provisional ballot procedures will play out at the county level for NC voters.[7][12]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-07odfpy",
+        "headline": "Restricting the Vote: Inside North Carolina's Attack on Democracy with A Million Cuts",
+        "sourceName": "Natalie Murdock NC (Substack)",
+        "url": "https://nataliemurdocknc.substack.com/p/restricting-the-vote-inside-north",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "This detailed write-up describes recent NCSBE votes on rules that shorten early voting, tighten photo ID requirements, end pre-registration for 16- and 17-year-olds, and allow county boards to more easily reject mail ballots with ID excuses, outlining multiple procedural changes NC-01 voters must navigate in 2026.[8][12]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0rhan0p",
+        "headline": "State Board Changes NC Election Rules in Lead-up to Midterms",
+        "sourceName": "Queen City Nerve",
+        "url": "https://qcnerve.com/nc-election-changes-midterms/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "The State Board of Elections approved new statewide rules making it easier for county boards to reject provisional and mail-in ballots cast by voters who claim a reasonable impediment to having photo ID, shifting from unanimous to majority board votes and altering how NC-01 voters’ ID-exemption ballots may be counted.[12][8]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-nc01-auto",
-      "startedAt": "2026-07-22T06:35:56.729Z",
-      "completedAt": "2026-07-22T06:36:31.294Z",
+      "id": "run-2026-07-29-nc01-auto",
+      "startedAt": "2026-07-29T06:39:28.229Z",
+      "completedAt": "2026-07-29T06:40:16.549Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 6,
+      "sourcesChecked": 8,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for NC-01. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for NC-01. Sources checked: 8. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:36:31.294Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:40:16.549Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
