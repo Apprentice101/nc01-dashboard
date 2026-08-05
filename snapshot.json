@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:40:16.549Z",
-  "exportedAt": "2026-07-29T06:55:25.616Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:33:46.638Z",
+  "exportedAt": "2026-08-05T06:49:13.117Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -951,20 +951,100 @@
         "relevanceSummary": "The State Board of Elections approved new statewide rules making it easier for county boards to reject provisional and mail-in ballots cast by voters who claim a reasonable impediment to having photo ID, shifting from unanimous to majority board votes and altering how NC-01 voters’ ID-exemption ballots may be counted.[12][8]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-08c5fkc",
+        "headline": "North Carolina lawmakers vote to make post-election challenges easier",
+        "sourceName": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/north-carolina-lawmakers-vote-make-post-election-challenges-easier-rcna590885",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "The bill passed by lawmakers would allow county residents to challenge early voters’ ballots for three business days after an election and empowers county boards to invalidate those ballots by simple majority, altering how ballots cast in NC-01 can be contested and potentially discarded after Election Day.[13][1]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0nlavk1",
+        "headline": "N.C. House passes new election law changes",
+        "sourceName": "Spectrum News 1 North Carolina",
+        "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/04/nc-house-passes-election-law-changes",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "The House approved sweeping election-law changes, including shortening early voting for primaries and requiring expanded ballot validation such as signature verification and use of a federal database to maintain voter rolls, which would directly affect how NC-01 voters cast and have their ballots processed in future elections.[1][13]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0rxwbss",
+        "headline": "NC lawmakers advance changes to new state budget affecting election rules",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-state-budget-technical-correction-pga-greensboro-military-games-election-rules-august-2026/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "WRAL reports that legislators are using a budget technical corrections bill to tweak recently passed election rules, including implementation details for new audit and voter-challenge provisions, which will influence how the new procedures are carried out administratively in NC-01.[3][2][13]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-01nan2d",
+        "headline": "NC elections bill requires expansion of auditor role in post-election checks",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/article316751196.html",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This article details provisions that would require the state auditor to conduct performance audits of election systems and procedures in all 100 counties, including review of voting equipment testing, ballot records, and chain-of-custody, increasing administrative oversight of elections in NC-01.[16][2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0omq87l",
+        "headline": "Republicans advance latest election bill + power shifts in new budget bill",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article316684743.html",
+        "publishedAt": "2026-08-02",
+        "relevanceSummary": "The piece explains key elements of the latest election legislation, including shorter early voting windows and new post-election audit and challenge powers, outlining procedural changes that will impact when and how NC-01 voters can cast ballots and how those ballots may be reviewed.[7][2][13]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0u88pzh",
+        "headline": "NC Senate passes election bills shortening early voting, adding audits",
+        "sourceName": "Carolina Journal",
+        "url": "https://www.carolinajournal.com/nc-senate-passes-election-bills-shortening-early-voting-adding-audits/",
+        "publishedAt": "2026-08-01",
+        "relevanceSummary": "The Senate advanced HB 958 and HB 834, which would reduce early voting from 17 to 10 days for primaries and expand post-election audits of county election procedures, affecting early voting options and oversight of ballot handling for NC-01 voters, though most changes would start Jan. 1, 2027.[2][9][10]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0kfm7w7",
+        "headline": "NC lawmakers move ahead with election bills; primary eligibility, early voting could see changes",
+        "sourceName": "McDowell News",
+        "url": "https://mcdowellnews.com/news/state-regional/government-politics/elections/article_def4903a-cd11-5743-b047-95187aab511a.html",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "This statewide coverage explains proposed changes to primary eligibility rules and cuts to early voting, along with adjustments to post-election deadlines for curing registration, ID issues, and absentee or provisional ballot problems, directly shaping timelines and options for NC-01 voters in upcoming primaries.[10][2]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0e4gs39",
+        "headline": "North Carolina elections bill requires voter purges, audits",
+        "sourceName": "The Charlotte Post",
+        "url": "https://www.thecharlottepost.com/index.php?src=news&submenu=news&srctype=lister&pos=8,8,3433",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "This report details HB 958’s requirements for voter roll purges using federal databases and expanded authority for the state auditor to review ballots and election procedures, which could lead to registration challenges and added scrutiny of absentee and provisional ballots in NC-01’s counties.[9][2]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-nc01-auto",
-      "startedAt": "2026-07-29T06:39:28.229Z",
-      "completedAt": "2026-07-29T06:40:16.549Z",
+      "id": "run-2026-08-05-nc01-auto",
+      "startedAt": "2026-08-05T06:33:01.870Z",
+      "completedAt": "2026-08-05T06:33:46.638Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for NC-01. Sources checked: 8. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for NC-01. Sources checked: 8. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:40:16.549Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:33:46.638Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
