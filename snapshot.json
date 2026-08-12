@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:33:46.638Z",
-  "exportedAt": "2026-08-05T06:49:13.117Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:35:16.985Z",
+  "exportedAt": "2026-08-12T05:48:32.541Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -1031,20 +1031,90 @@
         "relevanceSummary": "This report details HB 958’s requirements for voter roll purges using federal databases and expanded authority for the state auditor to review ballots and election procedures, which could lead to registration challenges and added scrutiny of absentee and provisional ballots in NC-01’s counties.[9][2]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-00qwgyo",
+        "headline": "Mail-in ballots could be more easily thrown out under new NC proposal",
+        "sourceName": "Ground News",
+        "url": "https://ground.news/article/mail-in-ballots-could-be-more-easily-thrown-out-under-new-nc-proposal_3d8bf7",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "The piece says the North Carolina State Board of Elections approved a measure that would let counties reject absentee ballots for envelope errors and other technical mistakes after voters are contacted. That is directly relevant to NC-01 mail voters because absentee-ballot envelope compliance and cure procedures affect whether a ballot is counted.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0xh65mf",
+        "headline": "North Carolina Lawmakers Send Two Election Bills to Stein’s Desk; Governor Signals Veto of the Larger One",
+        "sourceName": "Election Desk",
+        "url": "https://electiondesk.org/2026/08/09/north-carolina-lawmakers-send-two-election-bills-to-steins-desk-governor-signals-veto-of-the-larger-one/",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "The article reports that HB 958 would shorten primary early voting, expand audit procedures, and affect voter-registration correction deadlines, while HB 834 includes changes to absentee-ballot handling and election administration. These are statewide rules that apply to NC-01 voters and can affect how they register, vote early, and resolve absentee-ballot issues.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0vrk761",
+        "headline": "Controversial NC elections bill unlikely to become law before midterms",
+        "sourceName": "News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article316774145.html",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The story discusses a North Carolina elections bill and its likely timing relative to the midterms, which matters because statewide election-law changes apply to NC-01 voters. It is relevant mainly as process coverage of North Carolina election administration rather than a district-specific issue.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0pevoqx",
+        "headline": "State election board approves early voting plans for 80 counties",
+        "sourceName": "Carolina Journal",
+        "url": "https://www.carolinajournal.com/state-election-board-approves-early-voting-plans-for-80-counties/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This article says the State Board of Elections approved early-voting plans for many counties and describes the broader statewide context of proposed election-law changes affecting early voting. NC-01 voters rely on county early-voting logistics, so statewide board actions like this can affect where and how they vote.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0a6oz4p",
+        "headline": "Gov. Stein says he'll veto early voting reduction, election changes",
+        "sourceName": "WUNC",
+        "url": "https://www.wunc.org/politics/2026-08-05/gov-stein-veto-early-voting-reduction-election-changes",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "WUNC reports that Gov. Josh Stein plans to veto a bill that would reduce early voting for primaries and runoff elections and alter post-election audit procedures. Because North Carolina’s statewide election rules apply to NC-01, this is relevant to district voters planning for future voting access and administration.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0j46io9",
+        "headline": "NC House sends election security bills to Stein, veto forthcoming",
+        "sourceName": "Carolina Journal",
+        "url": "https://www.carolinajournal.com/nc-house-sends-election-security-bills-to-stein-veto-forthcoming/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This story says HB 834 would make procedural changes affecting absentee-ballot processing, absentee-ballot delivery, and State Board of Elections authority, while HB 958 would shorten early voting for primaries and expand post-election audits. NC-01 voters are covered by statewide North Carolina election rules, so any changes to absentee and early-voting procedures matter directly to them.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0l7ogbi",
+        "headline": "North Carolina elections",
+        "sourceName": "Election Desk",
+        "url": "https://electiondesk.org/tag/north-carolina-elections/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This roundup notes statewide action on HB 958 and HB 834 and mentions related election-administration developments in North Carolina. Because the page aggregates statewide election-procedure coverage that applies to NC-01 voters, it is useful as a catch-all source for current procedural changes.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-nc01-auto",
-      "startedAt": "2026-08-05T06:33:01.870Z",
-      "completedAt": "2026-08-05T06:33:46.638Z",
+      "id": "run-2026-08-12-nc01-auto",
+      "startedAt": "2026-08-12T05:34:47.024Z",
+      "completedAt": "2026-08-12T05:35:16.985Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 8,
+      "sourcesChecked": 7,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for NC-01. Sources checked: 8. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for NC-01. Sources checked: 7. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:33:46.638Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:35:16.985Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
