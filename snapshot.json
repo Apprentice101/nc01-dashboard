@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:35:16.985Z",
-  "exportedAt": "2026-08-12T05:48:32.541Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:49:45.314Z",
+  "exportedAt": "2026-08-19T05:08:33.383Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -1101,20 +1101,60 @@
         "relevanceSummary": "This roundup notes statewide action on HB 958 and HB 834 and mentions related election-administration developments in North Carolina. Because the page aggregates statewide election-procedure coverage that applies to NC-01 voters, it is useful as a catch-all source for current procedural changes.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0sfaq2x",
+        "headline": "N.C. House Sends Election Reform Bills To Governor's Desk",
+        "sourceName": "JoCoReport",
+        "url": "https://jocoreport.com/n-c-house-sends-election-reform-bills-to-governors-desk/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This piece reports that statewide election reform bills would require proof of citizenship for voter registration and expand interstate data-sharing to identify duplicate registrations, changes that would alter how NC-01 residents register and how county officials in the district maintain accurate voter rolls.[10]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0xdgqju",
+        "headline": "N.C. House passes new election law changes",
+        "sourceName": "Spectrum News 1 North Carolina",
+        "url": "https://www.spectrumlocalnews.com/nc/charlotte/news/2026/08/04/nc-house-passes-election-law-changes",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This article outlines statewide election-law changes, including new post-election audits by the State Auditor, expanded use of federal databases to maintain voter rolls, and added ballot-validation steps such as signature verification, which directly affect how NC-01 voters’ registrations and ballots will be processed and reviewed.[8]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0dxz4ma",
+        "headline": "Vote by Mail in North Carolina",
+        "sourceName": "You Can Vote",
+        "url": "https://www.youcanvote.org/voter-guide/vote-in-north-carolina/vote-by-mail/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This guide walks North Carolina voters through absentee-by-mail procedures, including who can request a ballot, how to return it, and the requirement to include a copy of an eligible photo ID or a Photo ID Exception form in the ballot envelope, providing NC-01 voters with clear, current instructions on mail voting and ID-copy rules.[11]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0hnge7z",
+        "headline": "Know Your Rights: NC Voters",
+        "sourceName": "You Can Vote",
+        "url": "https://www.youcanvote.org/resource/know-your-rights-nc-voters/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This statewide voter-information resource explains North Carolina’s photo voter ID requirements, lists approved IDs, and clarifies that voters without ID can complete a Photo ID Exception Form and cast a provisional ballot, giving NC-01 voters practical guidance on complying with current voter ID rules and exceptions.[9]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-nc01-auto",
-      "startedAt": "2026-08-12T05:34:47.024Z",
-      "completedAt": "2026-08-12T05:35:16.985Z",
+      "id": "run-2026-08-19-nc01-auto",
+      "startedAt": "2026-08-19T04:48:40.793Z",
+      "completedAt": "2026-08-19T04:49:45.314Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 7,
+      "sourcesChecked": 6,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for NC-01. Sources checked: 7. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for NC-01. Sources checked: 6. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:35:16.985Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:49:45.314Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
