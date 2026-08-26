@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:49:45.314Z",
-  "exportedAt": "2026-08-19T05:08:33.383Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:54:40.503Z",
+  "exportedAt": "2026-08-26T05:16:38.484Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -237,7 +237,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1141,20 +1141,100 @@
         "relevanceSummary": "This statewide voter-information resource explains North Carolina’s photo voter ID requirements, lists approved IDs, and clarifies that voters without ID can complete a Photo ID Exception Form and cast a provisional ballot, giving NC-01 voters practical guidance on complying with current voter ID rules and exceptions.[9]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0vfsg29",
+        "headline": "Online Judicial Voter Guide Now Available at NCSBE.gov",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/08/25/online-judicial-voter-guide-now-available-ncsbegov",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "The State Board announces a 2026 General Election online Judicial Voter Guide and a postcard mailing with a QR code to all North Carolina households, giving NC-01 voters an official statewide resource to review judicial candidates and related ballot information ahead of November.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0fra154",
+        "headline": "NC elections board drops Sunday early vote in more counties",
+        "sourceName": "The Charlotte Post",
+        "url": "https://www.thecharlottepost.com/news/2026/08/22/local-state/nc-elections-board-drops-sunday-early-vote-in-10-more-counties/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "The story notes that ten North Carolina counties that previously offered Sunday early voting in the last midterm will not do so this year because of recent State Board decisions, signaling a broader statewide shift in weekend voting access that NC-01 voters should track in their own counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0u2aan0",
+        "headline": "State Board approves Lenoir early voting plan without Georgia K. Battle; Greene will have no Sunday voting",
+        "sourceName": "Neuse News",
+        "url": "https://www.neusenews.com/index/2026/8/21/state-board-approves-lenoir-early-voting-plan-without-georgia-k-battle-greene-will-have-no-sunday-voting",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "Covering disputed one-stop early voting plans in Lenoir and Greene counties, this article explains that the State Board selected specific site configurations and confirmed the October 15–31 early-voting period with same-day registration, demonstrating how county-level decisions on sites and Sunday hours work under statewide rules that also govern NC-01 counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-05ie2c2",
+        "headline": "Some NC counties drop Sunday voting under approved early voting plans",
+        "sourceName": "ABC11 (WTVD)",
+        "url": "https://abc11.com/post/nc-elections-board-approves-early-voting-plans-county-disputes/19711362/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "The article details State Board decisions resolving disputed county early-voting plans, including the removal of Sunday voting in some jurisdictions and confirmation that early voting for the November general will run October 15–31, informing NC-01 voters about likely early-voting timelines and potential loss of Sunday options in their counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0dkjx98",
+        "headline": "NC elections board rejects Sunday voting in some counties",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/2026-08-20/nc-elections-board-rejects-sunday-voting-some-counties",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This report covers the State Board’s unanimous vote to reject Sunday early voting in certain counties while affirming that statewide early voting will run October 15–31 and include more overall hours than previous midterms, giving NC-01 voters insight into how weekend access and hours are being set across North Carolina.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-00ijcm4",
+        "headline": "NC election officials OK early voting plans that eliminate Sunday voting in some counties",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-early-voting-plan-county-2026-election-board-midterm-sunday-black-voters-august-2026/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This piece explains how the State Board of Elections approved final one-stop early voting plans for multiple counties, removing Sunday voting in some and setting the official statewide early-voting window for the November general, which shapes early-voting days and hours that NC-01 voters will encounter.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0772xic",
+        "headline": "NC Voter Guide (fridge card) – Updated August 19, 2026",
+        "sourceName": "You Can Vote",
+        "url": "https://www.youcanvote.org/resource/nc-voter-guide-fridge-card/",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This updated statewide voter guide provides current North Carolina election information, including key dates, registration and mail-ballot instructions, and ID expectations, serving as a practical voter-resource NC-01 residents can use to follow statewide procedures for November.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-04pinl1",
+        "headline": "NC county loses 3rd elections director in a year with threats, board complaints",
+        "sourceName": "News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article316923953.html",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "The article reports ongoing turnover and staffing interventions by the North Carolina State Board of Elections in a rural county elections office, highlighting statewide challenges in elections administration and the state's role in stabilizing local boards—issues that directly affect how NC-01’s county boards are supported and overseen.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-nc01-auto",
-      "startedAt": "2026-08-19T04:48:40.793Z",
-      "completedAt": "2026-08-19T04:49:45.314Z",
+      "id": "run-2026-08-26-nc01-auto",
+      "startedAt": "2026-08-26T04:53:38.959Z",
+      "completedAt": "2026-08-26T04:54:40.503Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 4,
+      "sourcesChecked": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for NC-01. Sources checked: 6. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for NC-01. Sources checked: 7. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:49:45.314Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:54:40.503Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
