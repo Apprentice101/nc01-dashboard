@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:54:40.503Z",
-  "exportedAt": "2026-08-26T05:16:38.484Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:41:54.280Z",
+  "exportedAt": "2026-09-02T09:10:26.090Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -237,7 +237,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1221,20 +1221,90 @@
         "relevanceSummary": "The article reports ongoing turnover and staffing interventions by the North Carolina State Board of Elections in a rural county elections office, highlighting statewide challenges in elections administration and the state's role in stabilizing local boards—issues that directly affect how NC-01’s county boards are supported and overseen.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0tplm7k",
+        "headline": "Election Rule Changes Remain On Hold – For Now",
+        "sourceName": "North Carolina League of Conservation Voters",
+        "url": "https://nclcv.org/cib08312026-election-rule-changes/",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "This item summarizes proposed North Carolina rule changes that would affect absentee-ballot rejection standards and provisional ballots for voters without photo ID. It matters to NC-01 voters because those statewide procedures govern both in-person and mail voting in the district.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-083ds9u",
+        "headline": "The NC elections rules that aren't quite rules yet",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/politics/2026-08-31/the-nc-elections-rules-that-arent-quite-rules-yet",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "WFAE reports on proposed statewide absentee-ballot and voter-ID rules, including a photocopy-of-ID requirement in the absentee process and a lower threshold for rejecting an ID exception. Those procedural changes would affect voters in NC-01 if adopted, even though the article says many may not take effect until the 2027 cycle.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0e4hvfr",
+        "headline": "Nuevas reglas electorales aún requieren revisión de la Asamblea General de Carolina del Norte",
+        "sourceName": "Enlace Latino NC",
+        "url": "https://enlacelatinonc.org/nuevas-reglas-electorales-aun-requieren-revision-de-la-asamblea-general-de-carolina-del-norte/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This Spanish-language report explains proposed changes to absentee-ballot curing, photo-ID exceptions, and polling-place conduct, and says the rules still need General Assembly review. NC-01 voters are directly affected because these are statewide North Carolina election procedures.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0z0p0xn",
+        "headline": "NC election rules paused + Downtown Raleigh gateway transforms: Thursday's top Triangle stories",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/local/article317037981.html",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This story says new State Board rules on voter ID and mail-in ballots were approved but paused after public objections triggered legislative review. Because North Carolina statewide rules govern absentee voting and ID requirements for NC-01 voters, the article is relevant to district voters.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-01jwnne",
+        "headline": "Proposed NC election rules head to legislative review. Will they be in place before the election?",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-election-rules-delayed-mail-ballot-voter-id-legislature-stein-august-2026/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article says proposed rules would change absentee-ballot handling and photo-ID exception procedures, and that legislative review could delay implementation before the election. NC-01 voters need this because the story concerns statewide procedures for mail ballots and voter ID.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-037j4kv",
+        "headline": "Attorney general sues over new rule requiring mail-in voters enroll in electronic portal",
+        "sourceName": "WITN",
+        "url": "https://www.witn.com/2026/08/26/attorney-general-sues-over-new-rule-requiring-mail-in-voters-enroll-electronic-portal/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "WITN reports a legal challenge to a new rule affecting mail-in voters and an electronic portal requirement. Any statewide absentee-ballot administration change is relevant to NC-01 voters because it would affect how voters request and manage mail ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0307hhw",
+        "headline": "Stein wants commission to delay proposed ballot rules as ...",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/local/stein-asks-commission-to-delay-approval-of-election-rules-mail-in-ansentee-north-carolina-august-2026/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This report says North Carolina is scheduled to begin mailing absentee ballots Sept. 4, and it covers the state-level fight over proposed rules affecting mail-in voting and voter-ID procedures. That directly matters to NC-01 voters because statewide election rules apply in this district.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-nc01-auto",
-      "startedAt": "2026-08-26T04:53:38.959Z",
-      "completedAt": "2026-08-26T04:54:40.503Z",
+      "id": "run-2026-09-02-nc01-auto",
+      "startedAt": "2026-09-02T08:40:55.371Z",
+      "completedAt": "2026-09-02T08:41:54.280Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for NC-01. Sources checked: 7. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for NC-01. Sources checked: 7. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:54:40.503Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:41:54.280Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
