@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:41:54.280Z",
-  "exportedAt": "2026-09-02T09:10:26.090Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:55:37.023Z",
+  "exportedAt": "2026-09-09T09:20:49.663Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -237,7 +237,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1291,20 +1291,100 @@
         "relevanceSummary": "This report says North Carolina is scheduled to begin mailing absentee ballots Sept. 4, and it covers the state-level fight over proposed rules affecting mail-in voting and voter-ID procedures. That directly matters to NC-01 voters because statewide election rules apply in this district.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0p8f6hm",
+        "headline": "What's up with mail-in voting in NC in 2026?",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/politics/2026-09-07/whats-up-with-mail-in-voting-in-nc-in-2026",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "This explainer details 2026 absentee-by-mail rules in North Carolina, including the requirement to attach a readable photocopy of a valid photo ID or an exception form to the ballot envelope, and clarifies that ballot request forms must include a driver’s license number, last four digits of Social Security, or non-operator ID number. These statewide procedures govern how NC-01 voters request and return mail ballots and meet ID-copy requirements.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0saz17w",
+        "headline": "Mail-in voting has begun in NC. Here’s what to know for the 2026 midterms",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/mail-voting-north-carolina-absentee-ballot-rules-how-to-midterm-election-september-2026/",
+        "publishedAt": "2026-09-06",
+        "relevanceSummary": "This guide walks voters through how to request, complete, and return mail-in ballots in North Carolina, including using the online portal or paper forms, the Oct. 20 deadline at 5 p.m. to request a ballot, and the ability to hand-deliver completed ballots to early-voting sites or county election offices during the Oct. 15–31 period. These statewide rules directly govern mail voting logistics for NC-01 residents.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ietq4a",
+        "headline": "North Carolina begins 2026 voting with new mail ballot rules",
+        "sourceName": "Axios Raleigh",
+        "url": "https://www.axios.com/local/raleigh/2026/09/04/north-carolina-election-mail-voting-registration-deadlines",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This overview explains the start of 2026 voting in North Carolina, highlighting new mail ballot rules and key voter registration and absentee deadlines, including the final day to mail registration paperwork. These statewide deadlines and procedures apply to NC-01 voters and are critical for timely registration and planning mail voting.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-072k43x",
+        "headline": "NC election officials say they’re ready as absentee voting begins",
+        "sourceName": "WBT",
+        "url": "https://wbt.com/1649942/nc-election-officials-say-theyre-ready-as-absentee-voting-begins/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "State and local election officials describe preparations for the start of absentee voting, urging voters to follow ballot instructions carefully, seal envelopes properly, and include required photo ID proof. This guidance is a practical voter resource for NC-01 residents using mail ballots and reinforces statewide voter-ID and envelope-completion requirements.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-08p839b",
+        "headline": "North Carolina Opens 2026 Midterm Voting as Counties Mail Absentee Ballots",
+        "sourceName": "Next Edition",
+        "url": "https://next-edition.com/articles/politics-north-carolina-opens-2026-midterm-voting-as-counties-mail-absentee-ballots-2026-09-05",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "The article covers the start of the 2026 general election as all 100 county boards begin mailing absentee ballots under statutory deadlines and outlines how voters can still request ballots before set cutoff dates. These statewide timelines and mailing procedures apply to NC-01 counties and inform voters when and how they can obtain and return absentee ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0l44pk3",
+        "headline": "NC elections officials alter mail ballot rules just before they go out",
+        "sourceName": "The Hill",
+        "url": "https://thehill.com/homenews/state-watch/6071775-nc-approves-new-mail-in-ballot-guidelines/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This piece describes the State Board of Elections’ approval of new guidelines for mail-in ballots just before counties sent them to voters, including changes in how absentee ballots are processed and handled statewide. Because these guidelines govern all counties, they shape mail ballot procedures for every NC-01 voter using absentee voting.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ovo2xp",
+        "headline": "NC State Board of Elections approves changes to how counties should handle absentee ballots",
+        "sourceName": "ABC11",
+        "url": "https://abc11.com/post/nc-state-board-elections-approves-changes-how-counties-should-handle-absentee-ballots/19791186/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "The article reports that the NC State Board of Elections approved new rules restricting who may return an absentee ballot on behalf of a voter, limiting it to certain relatives and guardians. This statewide change directly affects NC-01 voters’ options for having someone return their mail ballots and is important for planning how to comply with absentee procedures.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-04twnce",
+        "headline": "Voting in the 2026 General Election Begins This Week in NC",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/09/02/voting-2026-general-election-begins-week-nc",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The State Board of Elections explains how voting is beginning for the 2026 general election, including absentee-by-mail procedures, the requirement to place a photocopy of an acceptable photo ID in the envelope sleeve, and use of a Photo ID Exception Form for voters who cannot provide an ID copy. These statewide rules apply directly to all NC-01 voters for mail-in voting and voter ID compliance.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-nc01-auto",
-      "startedAt": "2026-09-02T08:40:55.371Z",
-      "completedAt": "2026-09-02T08:41:54.280Z",
+      "id": "run-2026-09-09-nc01-auto",
+      "startedAt": "2026-09-09T08:54:39.799Z",
+      "completedAt": "2026-09-09T08:55:37.023Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 7,
+      "sourcesChecked": 6,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for NC-01. Sources checked: 7. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for NC-01. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:41:54.280Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:55:37.023Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
