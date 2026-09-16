@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:55:37.023Z",
-  "exportedAt": "2026-09-09T09:20:49.663Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:23:01.589Z",
+  "exportedAt": "2026-09-16T09:52:17.743Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -237,7 +237,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1371,20 +1371,100 @@
         "relevanceSummary": "The State Board of Elections explains how voting is beginning for the 2026 general election, including absentee-by-mail procedures, the requirement to place a photocopy of an acceptable photo ID in the envelope sleeve, and use of a Photo ID Exception Form for voters who cannot provide an ID copy. These statewide rules apply directly to all NC-01 voters for mail-in voting and voter ID compliance.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-00eatzg",
+        "headline": "Free Voting Event at JCC on September 15th from 10am to 2pm",
+        "sourceName": "Johnston County Board of Elections",
+        "url": "https://www.johnstonnc.gov/joconcelections/content.cfm?pageid=221",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Johnston County election officials describe a local event offering voter registration help, absentee ballot-by-mail requests, and free voter photo IDs under state law, illustrating how county boards implement statewide ID and mail-ballot procedures that also govern NC-01 counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0d39r7k",
+        "headline": "Voting on Campus: A Guide for the Upcoming Midterms",
+        "sourceName": "The Carolinian (UNCG)",
+        "url": "https://carolinianuncg.com/2026/09/15/voting-on-campus-a-guide-for-the-upcoming-midterms/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This guide summarizes North Carolina’s photo ID requirements for voting, lists acceptable IDs including student and employee IDs, and notes that student and employee IDs are only approved through December 31, 2026 due to ongoing legal challenges, information that applies to NC-01 student voters as well.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0axgxeq",
+        "headline": "NCBOE, advocates react after SCOTUS blocks Trump's proposed absentee ballot restrictions",
+        "sourceName": "ABC11 (WTVD)",
+        "url": "https://abc11.com/post/voting-rights-nc-ncboe-advocates-react-scotus-blocks-trumps-proposed-absentee-ballot-restrictions/19836172/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "State election officials explain that the Supreme Court’s ruling against new federal absentee ballot limits does not change North Carolina’s processes and that counties will keep sending, receiving, and processing mail‑in ballots through Election Day, giving NC-01 voters clarity that existing absentee procedures remain in effect.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-05adzza",
+        "headline": "NC AG Jeff Jackson praises Supreme Court for blocking Trump’s mail-in ballot restrictions",
+        "sourceName": "Blue Ridge Public Radio",
+        "url": "https://www.bpr.org/politics-government/2026-09-15/nc-ag-jeff-jackson-praises-supreme-court-for-blocking-trumps-mail-in-ballot-restrictions",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "The article explains that the U.S. Supreme Court blocked proposed federal limits on mail‑in ballots and emphasizes that any registered North Carolina voter can continue to vote absentee by mail without special justification, confirming that NC-01 voters’ existing mail‑in options for November are unchanged.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0x9xal5",
+        "headline": "Get Ready to Vote: Tuesday is National Voter Registration Day",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/09/15/get-ready-vote-tuesday-national-voter-registration-day",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "The State Board explains current ways North Carolina voters can register (online via NCDMV, in-person at DMV, or by paper form to county boards) and reminds residents of registration deadlines, directly governing how NC-01 voters get on the rolls for the general election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-05cn5i0",
+        "headline": "North Carolina voters urged to keep participating in absentee voting as courts take issue with mail ballot rules",
+        "sourceName": "ABC11 (WTVD)",
+        "url": "https://abc11.com/post/nc-mail-ballots-battle-voters-north-carolina-told-keep-voting-absentee-hit-mailboxes-courts-take-issue/19830331/",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The report notes that North Carolina’s mail ballot envelopes have already been approved by the Postal Service and that election officials are encouraging continued absentee participation despite legal challenges, confirming for NC-01 voters that current mail‑in ballot procedures and materials remain valid.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0w6gq5s",
+        "headline": "2026 North Carolina voter guide: Important deadlines, where to vote, and what's on the ballot",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/2026-north-carolina-voter-guide-164549238.html",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This statewide guide lists absentee voting start dates and details North Carolina’s voter ID rules, including which photo IDs are accepted and the option to use an ID Exception Form, information that applies uniformly to in‑person and mail voters in NC-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0y4t0m9",
+        "headline": "2026 Notice of General Election | Union County Board of Elections",
+        "sourceName": "Union County Board of Elections",
+        "url": "https://unioncountyncelections.gov/node/1106",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Union County’s general election notice reiterates that voters will be asked to show photo ID, explains that voters without ID can still vote and obtain a free ID from county boards, and outlines documentation required for same‑day registration at early voting sites, reflecting statewide rules that apply to NC-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-nc01-auto",
-      "startedAt": "2026-09-09T08:54:39.799Z",
-      "completedAt": "2026-09-09T08:55:37.023Z",
+      "id": "run-2026-09-16-nc01-auto",
+      "startedAt": "2026-09-16T09:22:05.117Z",
+      "completedAt": "2026-09-16T09:23:01.589Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for NC-01. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for NC-01. Sources checked: 6. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:55:37.023Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:23:01.589Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
