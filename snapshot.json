@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:23:01.589Z",
-  "exportedAt": "2026-09-16T09:52:17.743Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:18:07.471Z",
+  "exportedAt": "2026-09-23T09:38:37.031Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1451,20 +1451,100 @@
         "relevanceSummary": "Union County’s general election notice reiterates that voters will be asked to show photo ID, explains that voters without ID can still vote and obtain a free ID from county boards, and outlines documentation required for same‑day registration at early voting sites, reflecting statewide rules that apply to NC-01.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-09tf2rf",
+        "headline": "North Carolina mail ballot changes challenged",
+        "sourceName": "Courthouse News Service",
+        "url": "https://www.courthousenews.com/north-carolina-mail-ballot-changes-challenged/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "A legal challenge contests recent statewide North Carolina mail-ballot procedures. The article says absentee voters must include a copy of photo ID and complete the ballot in front of two witnesses, requirements that apply to NC-01 voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0962zme",
+        "headline": "Election 2026 Q&A: New Hanover County Board of Commissioners and School Board candidates",
+        "sourceName": "WHQR",
+        "url": "https://www.whqr.org/2026-09-21/election-2026-q-a-new-hanover-county-board-of-commissioners-and-school-board-candidates",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The voter guide summarizes North Carolina’s 2026 procedures, including absentee-request timing, early voting from October 15–31, photo-ID or exemption-form requirements, and assigned-precinct voting on Election Day. These statewide rules apply to NC-01 voters, though New Hanover County is outside the district.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0k1m1ek",
+        "headline": "2026 General Election: Voting in CabCo",
+        "sourceName": "Cabarrus County",
+        "url": "https://www.cabarruscounty.us/News/2026-General-Election-Voting-in-CabCo",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Cabarrus County’s election guide details early-voting locations, same-day registration documentation, and North Carolina’s in-person and mail photo-ID requirements. The statewide ID information is applicable to NC-01 voters, although Cabarrus County itself is outside the district.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0b2mzy8",
+        "headline": "Key dates and important details for the 2026 midterm election season",
+        "sourceName": "Inside UNC Charlotte",
+        "url": "https://inside.charlotte.edu/2026/09/20/key-dates-and-important-details-for-the-2026-midterm-election-season/",
+        "publishedAt": "2026-09-20",
+        "relevanceSummary": "The guide describes statewide North Carolina registration and voter-ID procedures, including the October 9 registration deadline, October 15–31 early voting, acceptable physical IDs, and the nonacceptance of digital IDs. These rules apply to NC-01 voters, although the local examples concern Mecklenburg County.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0xdhhji",
+        "headline": "New Director of Elections Takes Oath of Office",
+        "sourceName": "Currituck County",
+        "url": "https://www.einpresswire.com/article/943505027/new-director-of-elections-takes-oath-of-office",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article covers Currituck County election administration and confirms that absentee-by-mail ballots began mailing September 4, 2026, with requests due by 5 p.m. October 20. Currituck County is within NC-01, making the local deadlines directly relevant to district voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-04n63zm",
+        "headline": "Notice of General Election | Tuesday, November 3, 2026.",
+        "sourceName": "Pitt County",
+        "url": "https://www.pittcountync.gov/m/newsflash/Home/Detail/2012",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Pitt County’s official notice provides eastern North Carolina voters with 2026 general-election procedures, including photo-ID rules, early-voting locations, Election Day hours, absentee-request deadlines, and same-day registration documentation. Pitt County is within the NC-01 geography.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-05wbstp",
+        "headline": "Elections event addresses registration issues, influence of AI on voting process",
+        "sourceName": "NC Local",
+        "url": "https://nclocal.org/2026/09/17/elections-event-addresses-registration-issues-influence-of-ai-on-voting-process/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article explains statewide absentee-ballot return options and deadlines relevant to NC-01 voters. Ballots may be returned by mail, commercial courier, to the county elections office, or at an early-voting site, and must be received by 7:30 p.m. on Election Day; BallotTrax tracking begins 30 days before the election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0x243lr",
+        "headline": "GOP reshapes North Carolina’s voting rules ahead of key Senate race",
+        "sourceName": "CNN Politics",
+        "url": "https://www.cnn.com/2026/09/17/politics/north-carolina-senate-midterms-voting-rules-election-integrity",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article reports statewide changes affecting absentee ballots: election officials were directed not to count ballots returned with an unsealed inner envelope, and delivery by someone other than the voter is generally limited to near relatives and legal guardians. Deficiencies may be cured or the ballot may be canceled and replaced.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-nc01-auto",
-      "startedAt": "2026-09-16T09:22:05.117Z",
-      "completedAt": "2026-09-16T09:23:01.589Z",
+      "id": "run-2026-09-23-nc01-auto",
+      "startedAt": "2026-09-23T09:17:21.666Z",
+      "completedAt": "2026-09-23T09:18:07.471Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
+      "sourcesChecked": 9,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for NC-01. Sources checked: 6. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for NC-01. Sources checked: 9. LLM verifications: 8. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:23:01.589Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:18:07.471Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
