@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:18:07.471Z",
-  "exportedAt": "2026-09-23T09:38:37.031Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:21:58.156Z",
+  "exportedAt": "2026-09-30T10:38:43.744Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1531,20 +1531,90 @@
         "relevanceSummary": "The article reports statewide changes affecting absentee ballots: election officials were directed not to count ballots returned with an unsealed inner envelope, and delivery by someone other than the voter is generally limited to near relatives and legal guardians. Deficiencies may be cured or the ballot may be canceled and replaced.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0aggc8d",
+        "headline": "Voting advocates keep fighting North Carolina mail ballot restrictions with midterms underway",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/voting-advocates-keep-fighting-north-carolina-mail-ballot-restrictions-with-midterms-underway/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The article reports litigation challenging North Carolina absentee-voting requirements, including photo identification and witness verification, while county boards begin processing absentee ballots. The rules apply to NC-01 mail voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0an9l17",
+        "headline": "Planning to vote in the 2026 general election? Here's what you need to know",
+        "sourceName": "EdNC",
+        "url": "https://www.ednc.org/9-29-2026-planning-to-vote-in-the-2026-general-election-heres-what-you-need-to-know/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "This statewide North Carolina voter guide explains assigned polling locations, acceptable photo ID and provisional voting, and how to request and return an absentee ballot—rules that apply to NC-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0lvotj5",
+        "headline": "North Carolina 2026 voter guide: How to register, what's on the ballot, early voting details, more",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/09/28/north-carolina-2026-voter-guide-how-register-whats-ballot-early-voting-details-more/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The statewide guide directs voters to check registration, polling-place and sample-ballot information, and explains North Carolina's photo-ID and ID-exception procedures for in-person and absentee voting.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0fliaej",
+        "headline": "Hundreds have already requested absentee ballots",
+        "sourceName": "The Daily Reflector",
+        "url": "https://www.reflector.com/standard/news/local/hundreds-have-already-requested-absentee-ballots/article_aeac4ba3-f501-41af-a557-208611e33384.html",
+        "publishedAt": "2026-09-26",
+        "relevanceSummary": "Greene County election officials describe absentee-ballot deadlines and verification checks for sealing, photo-ID copies or exception forms, and witness or notarization requirements. Greene County is within the broader eastern North Carolina region relevant to NC-01 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0v5o8ud",
+        "headline": "North Carolina 2026 ballot amendments: What to know before you vote",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/09/25/north-carolina-2026-ballot-amendments-what-know-before-you-vote/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The article explains the distinction between North Carolina's in-person constitutional photo-ID requirement and statutory absentee-ballot identification rules, including available ID-exception options for mail voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-03vvuro",
+        "headline": "Voting is underway: What’s on NC’s 2026 ballot",
+        "sourceName": "Carolina Journal",
+        "url": "https://www.carolinajournal.com/voting-is-underway-whats-on-ncs-2026-ballot/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "This statewide procedural guide gives the absentee-request and return deadlines, Election Day hours and assigned-polling-place requirement, and explains in-person photo ID and mail-ballot ID-copy or exception-form rules.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ooe92j",
+        "headline": "VOTE 2026: Guide to voting in Southeastern North Carolina",
+        "sourceName": "WECT",
+        "url": "https://www.wect.com/2026/09/23/vote-2026-guide-voting-southeastern-north-carolina/",
+        "publishedAt": "2026-09-23",
+        "relevanceSummary": "The guide covers North Carolina photo-ID requirements, same-day registration during early voting, absentee-ballot request and return deadlines, ballot delivery options and polling hours. These statewide rules apply to NC-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-nc01-auto",
-      "startedAt": "2026-09-23T09:17:21.666Z",
-      "completedAt": "2026-09-23T09:18:07.471Z",
+      "id": "run-2026-09-30-nc01-auto",
+      "startedAt": "2026-09-30T10:21:29.738Z",
+      "completedAt": "2026-09-30T10:21:58.156Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 9,
-      "updatesCreated": 8,
+      "sourcesChecked": 7,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for NC-01. Sources checked: 9. LLM verifications: 8. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for NC-01. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:18:07.471Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:21:58.156Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
