@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:21:58.156Z",
-  "exportedAt": "2026-09-30T10:38:43.744Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:57:30.731Z",
+  "exportedAt": "2026-10-07T11:14:00.569Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -198,7 +198,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1601,20 +1601,100 @@
         "relevanceSummary": "The guide covers North Carolina photo-ID requirements, same-day registration during early voting, absentee-ballot request and return deadlines, ballot delivery options and polling hours. These statewide rules apply to NC-01 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0m0d1sd",
+        "headline": "North Carolina absentee voting guide: deadlines and rules",
+        "sourceName": "WXII 12",
+        "url": "https://www.wxii12.com/article/north-carolina-absentee-voting-guide/74040990",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The statewide absentee guide explains that voters can request a ballot through the state's online portal or by paper form and return it by mail or hand delivery to the county board. Except for overseas and military ballots, completed absentee ballots must be received by 7:30 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0jsdl4j",
+        "headline": "Breaking down 2026 property, income tax referendums on North Carolina ballot",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/10/06/live-stream-breaking-down-2026-property-income-tax-referendums-north-carolina-ballot/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article reports that North Carolina's regular registration deadline is October 9, early in-person voting runs October 15–31, and completed absentee ballots must reach the local elections office by 7:30 p.m. on Election Day. These statewide deadlines and procedures apply to NC-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0g7r8fs",
+        "headline": "What to know for North Carolina’s Nov. 3 election: registration, early voting, mail voting",
+        "sourceName": "WCTI 12",
+        "url": "https://wcti12.com/news/local/what-to-know-for-north-carolinas-nov-3-election-registration-early-voting-mail-voting",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "This statewide procedural guide says absentee-ballot requests are due by 5 p.m. October 20 and completed ballots by 7:30 p.m. on Election Day. It also directs voters to the State Board's Voter Search tool to check registration, polling place, and sample ballot information.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0sf8btj",
+        "headline": "Midterm Elections 2026: What NC voters need to know about voting",
+        "sourceName": "ABC11",
+        "url": "https://abc11.com/post/2026-north-carolina-midterm-election-key-dates-deadlines-voting-information/19907951/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The statewide voter guide gives NC-01 voters key absentee procedures, including the October 20, 5 p.m. request deadline and options to return a completed ballot to the county elections office or an early-voting site in the voter's county. It also notes that voters must show photo ID when voting in person.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-01wi1g6",
+        "headline": "Voter registration deadline in North Carolina is approaching",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/voter-registration-deadline-north-carolina-wnc-approaching-election-voting-poll-ballot-midterm-november-2026-register-vote-politics-government-democrat-republican",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "State election officials say voters may register during early voting at any early-voting site in their county if they miss the October 9 deadline. The article also explains that absentee ballots may be mailed or returned in person to the county board or an early-voting site, and must arrive by 7:30 p.m. November 3.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-01zonfv",
+        "headline": "Voter registration deadline nears for NC midterm election",
+        "sourceName": "WHQR",
+        "url": "https://www.whqr.org/2026-10-02/voter-registration-deadline-nears-for-nc-midterm-election",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "North Carolina voters must register by 5 p.m. October 9 to vote by mail or on Election Day. Those who miss the deadline can use same-day registration during October 15–31 early voting by showing proof of address and acceptable photo ID, a procedure available to NC-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0qoqc62",
+        "headline": "Regular Voter Registration Deadline Approaching for 2026 General Election",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/10/02/regular-voter-registration-deadline-approaching-2026-general-election",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "North Carolina's regular voter-registration deadline is 5 p.m. on October 9 for voters planning to vote by mail or on Election Day. Voters who miss it may register and vote during early voting at any site in their county by providing proof of residence and acceptable photo ID.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0uiibwl",
+        "headline": "Elections 2026: Voting in the November Election",
+        "sourceName": "Autism Society of North Carolina",
+        "url": "https://www.autismsociety-nc.org/elections-2026-voting-in-the-november-election/",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "This statewide voter guide lists acceptable photo IDs and explains that voters without one may complete an ID Exception Form. For mail ballots, it describes the requirement to include a copy of acceptable photo ID or an exception form, use two adult witnesses or a notary, and include required signatures.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-nc01-auto",
-      "startedAt": "2026-09-30T10:21:29.738Z",
-      "completedAt": "2026-09-30T10:21:58.156Z",
+      "id": "run-2026-10-07-nc01-auto",
+      "startedAt": "2026-10-07T10:56:58.040Z",
+      "completedAt": "2026-10-07T10:57:30.731Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for NC-01. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for NC-01. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:21:58.156Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:57:30.731Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
