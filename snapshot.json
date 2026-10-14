@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:57:30.731Z",
-  "exportedAt": "2026-10-07T11:14:00.569Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:21:01.540Z",
+  "exportedAt": "2026-10-14T09:33:33.324Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -99,7 +99,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -224,7 +224,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1681,20 +1681,90 @@
         "relevanceSummary": "This statewide voter guide lists acceptable photo IDs and explains that voters without one may complete an ID Exception Form. For mail ballots, it describes the requirement to include a copy of acceptable photo ID or an exception form, use two adult witnesses or a notary, and include required signatures.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0m1qj0f",
+        "headline": "In-person early voting for North Carolina's 2026 general election starts Oct. 15",
+        "sourceName": "WCTI 12",
+        "url": "https://wcti12.com/news/local/in-person-early-voting-for-north-carolinas-2026-general-election-starts-oct-15",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide report says voters may use any early-voting location in their county, while same-day registrants must show proof of current address and acceptable photo ID. Early-voting sites and hours vary by county, including counties in and around NC-01.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0qxn548",
+        "headline": "Early voting is starting in NC. What you need to know to cast your 2026 ballot",
+        "sourceName": "The Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/politics-government/article317588654.html",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide guide explains early-voting dates, county-specific site schedules, sample-ballot lookup, accepted photo IDs, provisional voting, and the requirement to vote at an assigned precinct on Election Day. These rules apply to NC-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0de26vt",
+        "headline": "10 Things for In-Person Early Voters to Know in North Carolina",
+        "sourceName": "Cumberland County",
+        "url": "https://www.cumberlandcountync.gov/home/2026/10/12/10-things-for-in-person-early-voters-to-know-in-north-carolina",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The county election office explains statewide early-voting procedures, accepted photo identification, provisional ballots, Photo ID Exception Forms, same-day registration documentation, and absentee-ballot drop-off. These procedures are relevant to NC-01 voters because they reflect North Carolina rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0juoinu",
+        "headline": "Early in-person voting begins this week in North Carolina for November midterms: What to know",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/10/12/early-in-person-voting-begins-north-carolina-this-week-what-know/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "North Carolina voters, including those in NC-01, can vote at any early-voting site in their county from Oct. 15 through 3 p.m. Oct. 31, but must use their assigned polling place on Election Day. The article also explains registration, absentee-ballot, and photo-ID procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0s3ws5s",
+        "headline": "Today is deadline to register to vote",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/today-deadline-register-vote-035900884.html",
+        "publishedAt": "2026-10-10",
+        "relevanceSummary": "North Carolina voters who missed the regular registration deadline can use same-day registration during early voting by providing proof of residence and acceptable photo ID. The report also explains absentee-ballot request and return deadlines and Election Day polling rules.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0ykton4",
+        "headline": "Wilmington voter rolls grow as registration deadline arrives",
+        "sourceName": "Spectrum News 1 North Carolina",
+        "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/10/09/wilmington-election-voter-registration-2026",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The North Carolina report notes that voters missing the regular deadline can register and vote at any early-voting site in New Hanover County beginning Oct. 15, while Election Day voting requires an assigned polling place. The same statewide distinction applies to NC-01 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc01-0hbf4cn",
+        "headline": "As early in-person voting approaches, North Carolina election officials seek to ease fears",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/early-person-voting-approaches-north-151802875.html",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The statewide report highlights key North Carolina voting deadlines: Oct. 9 voter registration, Oct. 15 early voting, Oct. 20 absentee-ballot requests, Oct. 31 early voting’s end, and Nov. 3 Election Day. These procedures apply directly to NC-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-nc01-auto",
-      "startedAt": "2026-10-07T10:56:58.040Z",
-      "completedAt": "2026-10-07T10:57:30.731Z",
+      "id": "run-2026-10-14-nc01-auto",
+      "startedAt": "2026-10-14T09:20:33.811Z",
+      "completedAt": "2026-10-14T09:21:01.540Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 8,
+      "sourcesChecked": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for NC-01. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for NC-01. Sources checked: 8. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:57:30.731Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:21:01.540Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
