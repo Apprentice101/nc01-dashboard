@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:11:21.608Z",
-  "exportedAt": "2026-10-21T09:23:18.539Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:20:01.906Z",
+  "exportedAt": "2026-10-28T10:25:18.849Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -1814,17 +1814,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-nc01-auto",
-      "startedAt": "2026-10-21T09:10:55.098Z",
-      "completedAt": "2026-10-21T09:11:21.608Z",
+      "id": "run-2026-10-28-nc01-auto",
+      "startedAt": "2026-10-28T10:19:59.632Z",
+      "completedAt": "2026-10-28T10:20:01.906Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 6,
+      "sourcesChecked": 10,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for NC-01. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for NC-01. Sources checked: 10. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:11:21.608Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:20:01.906Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
