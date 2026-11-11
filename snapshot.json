@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:47:01.594Z",
-  "exportedAt": "2026-11-04T11:51:21.092Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:38:09.113Z",
+  "exportedAt": "2026-11-11T11:44:43.695Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -211,7 +211,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; redrew NC-01 and NC-03 boundaries. NEEDS REVIEW: enacted plan PDF not independently re-fetched from this exact URL; corroborated via news/legal-tracker sources."
       },
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1814,17 +1814,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-nc01-auto",
-      "startedAt": "2026-11-04T11:46:58.481Z",
-      "completedAt": "2026-11-04T11:47:01.594Z",
+      "id": "run-2026-11-11-nc01-auto",
+      "startedAt": "2026-11-11T11:38:07.107Z",
+      "completedAt": "2026-11-11T11:38:09.113Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 10,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for NC-01. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for NC-01. Sources checked: 10. LLM verifications: 10. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:47:01.594Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:38:09.113Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
