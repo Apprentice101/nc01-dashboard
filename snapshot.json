@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-11",
-  "updatedAt": "2026-11-11T11:38:09.113Z",
-  "exportedAt": "2026-11-11T11:44:43.695Z",
+  "dataAsOf": "2026-11-18",
+  "updatedAt": "2026-11-18T12:34:30.339Z",
+  "exportedAt": "2026-11-18T12:42:07.027Z",
   "districtCode": "NC-01",
   "data": {
     "DISTRICT": {
@@ -250,7 +250,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-11",
+        "lastVerified": "2026-11-18",
         "confidence": "unconfirmed"
       },
       "src-multistate-redistricting-litigation": {
@@ -1814,17 +1814,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-11-nc01-auto",
-      "startedAt": "2026-11-11T11:38:07.107Z",
-      "completedAt": "2026-11-11T11:38:09.113Z",
+      "id": "run-2026-11-18-nc01-auto",
+      "startedAt": "2026-11-18T12:34:04.727Z",
+      "completedAt": "2026-11-18T12:34:30.339Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 10,
+      "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-11 for NC-01. Sources checked: 10. LLM verifications: 10. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-18 for NC-01. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-18T11:38:09.113Z",
+    "NEXT_REFRESH_AT": "2026-11-25T12:34:30.339Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc01-2026-w28",
       "periodStart": "2026-07-09",
